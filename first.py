@@ -18,7 +18,7 @@ def division(a, b):
 
   return quotient
 
-def multiplication(a, b):
+def change-2-multiplication(a, b):
 
   product = a * b
 
