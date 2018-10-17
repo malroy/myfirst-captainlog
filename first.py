@@ -23,3 +23,9 @@ def multiplication(a, b):
   product = a * b
 
   return product
+
+def bad_multiplication(a, b):
+
+  product = a * b + 12
+
+  return product
