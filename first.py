@@ -28,6 +28,4 @@ def bad_multiplication(a, b):
 
   product = a * b + 12
 
-
-  return product from master branch second try
-  return product from branch-third try from master
+  return product from branch-third try
