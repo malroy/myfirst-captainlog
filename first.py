@@ -30,4 +30,4 @@ def bad_multiplication(a, b):
 
 
   return product from master branch second try
-  return product from branch-second try
+  return product from branch-third try from master
